@@ -1,0 +1,11 @@
+import vendedores.*
+
+describe "vendedores" {
+	
+	var chivilcoy = new Ciudad(provincia = "buenosAires")
+	
+	test "5ciudades" {
+		assert.that(true)
+	}
+
+}
